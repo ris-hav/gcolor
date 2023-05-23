@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gcolor/static/css/main.598d7b21.css",
+    "main.js": "/gcolor/static/js/main.8590574c.js",
+    "index.html": "/gcolor/index.html",
+    "main.598d7b21.css.map": "/gcolor/static/css/main.598d7b21.css.map",
+    "main.8590574c.js.map": "/gcolor/static/js/main.8590574c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d7b21.css",
+    "static/js/main.8590574c.js"
+  ]
+}
